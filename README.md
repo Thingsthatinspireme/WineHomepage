@@ -10,4 +10,5 @@
 3. 사진 슬라이드 기능
 4. 스크롤을 이용한 애니메이션 효과
 
-![웹 캡처_29-7-2021_152921_](https://user-images.githubusercontent.com/73827546/127442777-02613528-fbab-4411-b663-ec8a64229054.jpeg)
+![웹 캡처_29-7-2021_153634_](https://user-images.githubusercontent.com/73827546/127443554-98d968a6-f8b4-4a8d-98b4-604b384053a6.jpeg)
+
